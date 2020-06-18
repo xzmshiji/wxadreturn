@@ -1,0 +1,20 @@
+{
+    "name": "jishuge/wxadreturn",
+    "description": "微信广告数据回传sdk",
+    "authors": [
+        {
+            "name": "jishuge",
+            "email": "m18108447675@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "numberFormat\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
