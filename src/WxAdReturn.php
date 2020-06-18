@@ -15,9 +15,9 @@ class WxAdReturn
 {
 
 
-    private $access_token;
-    private $appid;
-    private $openid;
+    private $access_token;  //用appid和秘钥获取的access_token
+    private $appid;         //appid
+    private $openid;        //appid下的粉丝openid
 
 
     /**
